@@ -1,0 +1,8 @@
+{img src="https://picsum.photos/400" alt="Test image" />
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
